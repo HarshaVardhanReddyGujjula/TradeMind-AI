@@ -2,11 +2,18 @@
 
 > **Enterprise AI Trading & Investment Super App for Indian (NSE/BSE) & US (NASDAQ/NYSE) Markets**
 
-![TradeMind AI Banner](https://img.shields.io/badge/TradeMind-AI--Engine-00D09C?style=for-the-badge&logo=react)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-trade--mind--ai--tau.vercel.app-00D09C?style=for-the-badge&logo=vercel)](https://trade-mind-ai-tau.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-TradeMind--AI-181717?style=for-the-badge&logo=github)](https://github.com/HarshaVardhanReddyGujjula/TradeMind-AI)
 ![Next.js 14](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## 🌐 Live Demo & Repository Links
+
+* ⚡ **Live Web Application**: **[https://trade-mind-ai-tau.vercel.app/](https://trade-mind-ai-tau.vercel.app/)**
+* 🐙 **Official GitHub Repository**: **[https://github.com/HarshaVardhanReddyGujjula/TradeMind-AI](https://github.com/HarshaVardhanReddyGujjula/TradeMind-AI)**
 
 ---
 
@@ -76,8 +83,8 @@ trademind-ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HarshaVardhanReddyGujjula/trademind-ai.git
-cd trademind-ai
+git clone https://github.com/HarshaVardhanReddyGujjula/TradeMind-AI.git
+cd TradeMind-AI
 ```
 
 ### 2. Launch Backend (Python FastAPI)
@@ -98,19 +105,10 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo & Deployment Setup
+## 🌐 Live Deployment Configuration
 
-### Deploying Frontend to Vercel (One-Click)
-1. Push this repository to GitHub.
-2. Import project to [Vercel](https://vercel.com).
-3. Set **Root Directory** to `frontend`.
-4. Deploy!
-
-### Deploying Backend to Render / Railway
-1. Import repository to [Render](https://render.com) or [Railway](https://railway.app).
-2. Set **Root Directory** to `backend`.
-3. Build Command: `pip install -r requirements.txt`
-4. Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+* **Frontend**: Hosted on [Vercel](https://vercel.com) — Root directory `/frontend`
+* **Live Demo URL**: [https://trade-mind-ai-tau.vercel.app/](https://trade-mind-ai-tau.vercel.app/)
 
 ---
 
